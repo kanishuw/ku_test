@@ -1,0 +1,1 @@
+echo Hello! This is a sample batch file. Status: Success !
