@@ -1,6 +1,6 @@
 echo +++build.sh success++
-./ls
 ls
+pwd
 uname -a
 gcc -v
 ./HelloWorldC
