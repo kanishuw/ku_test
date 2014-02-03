@@ -70,15 +70,15 @@ _FPOR(ALTI2C2_OFF);
  * Note:            None
  *****************************************************************************/
 int main(void) {
-    
+    int i = 0;
     ANSELC = 0x0000;    // a 0 causes the pin to be set to digital
     TRISC = 0xDFFF;     // A 0 causes the pin to be an output  RC13
     CNPUC = 0x00FF;     // Enable weak pull up
     CNPDC = 0x0000;     // Disable weak pull down
 
-
+	
     while (1) {
-    
+		i++;
     }
 
     return 0;
