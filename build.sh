@@ -1,4 +1,4 @@
-echo +++build.sh success++++
+echo +++build.sh success++
 ./ls
 ls
 uname -a
