@@ -78,7 +78,7 @@ int main(void) {
 
 	
     while (1) {
-		i+=6;
+		i+=6
     }
 
     return 0;
