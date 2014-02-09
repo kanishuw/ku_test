@@ -78,7 +78,7 @@ int main(void) {
 
 	
     while (1) {
-		i+=77
+		i+=88
     }
 
     return 0;
